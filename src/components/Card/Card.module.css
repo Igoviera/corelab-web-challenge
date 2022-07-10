@@ -1,0 +1,26 @@
+
+.Card {
+  background: #F04F4F;
+  padding-left: 26px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+.imgCarro{
+  max-width: 100%;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.icons{
+  display: flex;
+  justify-content: end;
+  
+}
+.icon{
+  cursor: pointer;
+  height: 30px;
+}
+

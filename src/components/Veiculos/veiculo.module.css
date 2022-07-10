@@ -1,0 +1,12 @@
+
+.veiculo{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 57px;
+    padding-right: 57px;
+}
+
+.veiculo > div {
+    flex: 1 1 223px;
+    margin: 10px;
+}

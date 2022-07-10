@@ -1,0 +1,28 @@
+.containerBtn{
+    display: flex;
+    justify-content: center;
+    width: 364px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btnAdicionar{
+    cursor: pointer;
+    width: 364px;
+    height: 60px;
+    /*margin-left: 266px;
+    margin-right: 266px;
+    margin-top: 34px;*/
+    background: rgba(101, 220, 199, 0.8);
+    border-radius: 50px;
+    border: none;
+    font-size: 30px;
+    color: #020202;
+}
+.btnAdicionar:hover{
+    background-color: transparent;
+    border: solid 2px rgba(101, 220, 199, 0.8);;
+    color: rgba(101, 220, 199, 0.8);;
+}
